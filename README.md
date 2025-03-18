@@ -1,0 +1,1 @@
+I created a web-based system that helps us find and remove fake product reviews. This way, users can trust the ratings they see. Administrators can use the system to check flagged reviews and take action if they're fake.
